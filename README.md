@@ -1,8 +1,8 @@
 # raygun4go
-[![Build Status](https://travis-ci.org/MindscapeHQ/raygun4go.svg?branch=master)](https://travis-ci.org/MindscapeHQ/raygun4go)
-[![Coverage](http://gocover.io/_badge/github.com/MindscapeHQ/raygun4go)](http://gocover.io/github.com/MindscapeHQ/raygun4go)
-[![GoDoc](https://godoc.org/github.com/MindscapeHQ/raygun4go?status.svg)](http://godoc.org/github.com/MindscapeHQ/raygun4go)
-[![GoReportcard](http://goreportcard.com/badge/MindscapeHQ/raygun4go)](http://goreportcard.com/report/MindscapeHQ/raygun4go)
+[![Build Status](https://travis-ci.org/ramizpolic/raygun4go.svg?branch=master)](https://travis-ci.org/ramizpolic/raygun4go)
+[![Coverage](http://gocover.io/_badge/github.com/ramizpolic/raygun4go)](http://gocover.io/github.com/ramizpolic/raygun4go)
+[![GoDoc](https://godoc.org/github.com/ramizpolic/raygun4go?status.svg)](http://godoc.org/github.com/ramizpolic/raygun4go)
+[![GoReportcard](http://goreportcard.com/badge/ramizpolic/raygun4go)](http://goreportcard.com/report/ramizpolic/raygun4go)
 
 raygun4go adds Raygun-based error handling to your golang code. It catches all
 occuring errors, extracts as much information as possible and sends the error
@@ -12,7 +12,7 @@ to Raygun via their REST-API.
 
 ### Installation
 ```
-  $ go get github.com/MindscapeHQ/raygun4go
+  $ go get github.com/ramizpolic/raygun4go
 ```
 
 ### Basic Usage
@@ -83,7 +83,7 @@ to control. For any error you don't want to group yourself, return an empty stri
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please first check the list of
-[issues](https://github.com/MindscapeHQ/raygun4go/issues).
+[issues](https://github.com/ramizpolic/raygun4go/issues).
 
 If your problem or idea is not addressed yet, [please open a new
-issue](https://github.com/MindscapeHQ/raygun4go/issues/new).
+issue](https://github.com/ramizpolic/raygun4go/issues/new).

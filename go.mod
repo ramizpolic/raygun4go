@@ -1,4 +1,4 @@
-module github.com/MindscapeHQ/raygun4go
+module github.com/ramizpolic/raygun4go
 
 go 1.13
 
